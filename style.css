@@ -1,0 +1,14 @@
+#box{
+    width: 200px;
+    background-color: rgb(219, 44, 44);
+    border-radius: 1000px;
+    overflow: hidden;
+    margin: 0 auto 20px auto;
+    
+}
+.border {
+    border: 5px solid rgb(0, 225, 255);
+    width: 200px;
+    height: 200px;
+    border-radius: 1000px;
+}
