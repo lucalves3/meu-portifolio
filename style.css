@@ -1,3 +1,23 @@
+h2 {
+    color: green;
+}
+
+body {
+    background-image: url(/meu-portifolio/vincent-van-gogh-the-starry-night-wallpaper-wallpaper-studio-10.jpg);
+    background-repeat: space;
+    background-attachment: fixed;
+}
+
+#nome {
+    font-size: 65px;
+    color: green;
+}
+
+#felicidade {
+    background-color: rgba(212, 77, 77, 0.986);
+    width: 300px;
+    height: 50px;
+}
 #box{
     width: 200px;
     background-color: rgb(219, 44, 44);
@@ -6,6 +26,12 @@
     margin: 0 auto 20px auto;
     
 }
+
+.listaul {
+    color: white;
+    background-color: blue;
+}
+
 .border {
     border: 5px solid rgb(0, 225, 255);
     width: 200px;
